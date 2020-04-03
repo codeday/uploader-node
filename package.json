@@ -1,8 +1,8 @@
 {
   "name": "@codeday/uploader-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny utility to upload files to a CDN, using @codeday/uploader.",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/codeday/uploader-node",
   "author": "Tyler Menezes <tylermenezes@srnd.org>",
   "license": "Artistic-2.0",
