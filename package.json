@@ -1,0 +1,18 @@
+{
+  "name": "@codeday/uploader-node",
+  "version": "1.0.0",
+  "description": "Tiny utility to upload files to a CDN, using @codeday/uploader.",
+  "main": "index.js",
+  "repository": "https://github.com/codeday/uploader-node",
+  "author": "Tyler Menezes <tylermenezes@srnd.org>",
+  "license": "Artistic-2.0",
+  "private": false,
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@codeday/eslint-config": "^1.1.3",
+    "eslint": "^6.8.0"
+  }
+}
