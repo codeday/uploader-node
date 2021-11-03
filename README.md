@@ -1,6 +1,6 @@
 # uploader-node
 
-A simple utility to send files to [uploader](https://github.com/codeday/uploader.)
+A simple utility to send files to [uploader](https://github.com/codeday/uploader)
 
 ## Usage
 
